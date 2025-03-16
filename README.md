@@ -2,6 +2,11 @@
 
 An MCP (Model Context Protocol) tool that provides cryptocurrency market data using the CoinGecko API, specifically designed for Claude Desktop.
 
+## Tutorial
+
+For a detailed guide on setting up and using this tool, check out our Medium tutorial:
+[Tutorial: Using Claude Desktop with Crypto Trader MCP Tool to Get Real-Time Cryptocurrency Data](https://medium.com/@saintdoresh/tutorial-using-claude-desktop-with-crypto-trader-mcp-tool-to-get-real-time-cryptocurrency-data-4df25ecede33)
+
 ## Features
 
 - Real-time cryptocurrency price data
